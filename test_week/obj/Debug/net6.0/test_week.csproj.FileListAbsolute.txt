@@ -1,0 +1,15 @@
+D:\Аналитик\разработчик\lesson01\test_week\obj\Debug\net6.0\test_week.csproj.AssemblyReference.cache
+D:\Аналитик\разработчик\lesson01\test_week\obj\Debug\net6.0\test_week.GeneratedMSBuildEditorConfig.editorconfig
+D:\Аналитик\разработчик\lesson01\test_week\obj\Debug\net6.0\test_week.AssemblyInfoInputs.cache
+D:\Аналитик\разработчик\lesson01\test_week\obj\Debug\net6.0\test_week.AssemblyInfo.cs
+D:\Аналитик\разработчик\lesson01\test_week\obj\Debug\net6.0\test_week.csproj.CoreCompileInputs.cache
+D:\Аналитик\разработчик\lesson01\test_week\bin\Debug\net6.0\test_week.exe
+D:\Аналитик\разработчик\lesson01\test_week\bin\Debug\net6.0\test_week.deps.json
+D:\Аналитик\разработчик\lesson01\test_week\bin\Debug\net6.0\test_week.runtimeconfig.json
+D:\Аналитик\разработчик\lesson01\test_week\bin\Debug\net6.0\test_week.dll
+D:\Аналитик\разработчик\lesson01\test_week\bin\Debug\net6.0\test_week.pdb
+D:\Аналитик\разработчик\lesson01\test_week\obj\Debug\net6.0\test_week.dll
+D:\Аналитик\разработчик\lesson01\test_week\obj\Debug\net6.0\refint\test_week.dll
+D:\Аналитик\разработчик\lesson01\test_week\obj\Debug\net6.0\test_week.pdb
+D:\Аналитик\разработчик\lesson01\test_week\obj\Debug\net6.0\test_week.genruntimeconfig.cache
+D:\Аналитик\разработчик\lesson01\test_week\obj\Debug\net6.0\ref\test_week.dll
